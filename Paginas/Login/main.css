@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    display: flex;
+    height: 100vh;
+}
+
+#barraLogin{
+    width: 37.5%;
+    display: flex;
+    flex-direction: column;
+}
+
+#container1{
+    display:flex;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+    height: 100%;
+    justify-content: center;
+}
+
+#logo{
+    width: 100%;
+    height: 18vh;
+    object-fit: cover;
+}
+#formularioLogin{
+
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+}
+
+#inputTxt{
+    width: 99%;
+}
+
+/**************************/
+
+#fundo{
+    width: 67.5%;
+    /* background-image: url('Media\predio-de-escritorios-moderno-opiniao-de-angulo-baixo-dos-arranha-ceus-na-cidade-de-singapura-predio.png'); */
+}
+
+
+#submit{
+    
+}
+
